@@ -1,0 +1,9 @@
+README.rst
+setup.cfg
+setup.py
+paetom/__init__.py
+paetom_utils.egg-info/PKG-INFO
+paetom_utils.egg-info/SOURCES.txt
+paetom_utils.egg-info/dependency_links.txt
+paetom_utils.egg-info/requires.txt
+paetom_utils.egg-info/top_level.txt

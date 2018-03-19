@@ -1,0 +1,19 @@
+Metadata-Version: 1.2
+Name: paetom-utils
+Version: 1.0.0
+Summary: Biblioteca úteis para desenvolvimento no padrão de projeto Paetom
+Home-page: http://paetom.com/python/utils
+Author: Cleverson de Souza Carneiro
+Author-email: cleverson@paetom.com
+License: UNKNOWN
+Description: Bibliotecas úteis para desenvolvimento de projetos no padrão Paetom
+        =====================================================================
+        
+        Em breve mais descrições
+Keywords: design patern framework
+Platform: UNKNOWN
+Classifier: Development Status :: 2 - Alpha
+Classifier: Framework :: Paetom
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Programming Language :: Python :: 3
+Requires-Python: >=3,<4
